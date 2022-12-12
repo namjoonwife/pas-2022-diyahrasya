@@ -30,7 +30,7 @@ body{
 }
 .card .nftName{
     margin-top: 25px;
-    margin-left: 20px;
+    margin-left: 0px;
     padding: 25px;
     font-family: 'Outfit', sans-serif;
     font-size: 23px;
